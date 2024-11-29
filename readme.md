@@ -143,6 +143,11 @@
 - The bot is hitting rate limits. The built-in retry mechanism will handle this automatically.
 
 ---
+### What do the proposals look like?
+![image](https://github.com/user-attachments/assets/e9991a1a-2531-4748-a2b8-f10f6d8cb142)
+
+
+---
 
 ## **License**
 
