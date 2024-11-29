@@ -100,7 +100,7 @@
   - `@solana/web3.js`: For blockchain interactions on Solana.
   - `governance-idl-sdk`: For fetching proposals from the Solana Governance Program.
 - **Storage**:
-  - Proposals are stored in a local file (`proposal_store.json`) to prevent duplicate notifications.
+  - Proposals are stored in a local file (`proposal_store.json`) to prevent duplicate notifications. It is recommended to put `[]` inside this json file
   - Configuration is saved in `config.json` for persistence across sessions.
 
 ---
